@@ -4,7 +4,7 @@
 
 ## Synopsys
 
-This repository is designed for the website webosorg.com,
+This repository is designed for the website [webosorg.com](http://www.webosorg.com),
 which will represent the reflection of the live state of the project webOs.
 For more information about the project webOs please visite
 ### https://github.com/webosorg/webos
