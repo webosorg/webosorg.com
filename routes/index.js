@@ -5,4 +5,6 @@ module.exports = function(app) {
 
   app.get('/logo', require('./getLogo').get);
 
+  app.get('/webosDrawing', require('./getWebosDrawing').get);
+
 }
